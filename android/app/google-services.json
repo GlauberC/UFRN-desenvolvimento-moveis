@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778741126403",
+    "firebase_url": "https://glau-ect-mobile.firebaseio.com",
+    "project_id": "glau-ect-mobile",
+    "storage_bucket": "glau-ect-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778741126403:android:c1eb44d16716b3af4e0536",
+        "android_client_info": {
+          "package_name": "com.invertase.rnfirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778741126403-72tmm1keg304b6l14l3l224l1na2qnp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJFcLjsMCdrQZ3ecHr-_uXrSyA7gbNmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778741126403-72tmm1keg304b6l14l3l224l1na2qnp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
